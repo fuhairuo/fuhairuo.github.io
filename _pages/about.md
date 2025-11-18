@@ -1,17 +1,40 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hairuo Fu"
 author_profile: true
+
 redirect_from: 
   - /about/
   - /about.html
 ---
+------
+![photo](/images/profile_landscape.JPG)
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<div>
+  <i class="fas fa-envelope"></i>
+  <a href="mailto:hairuo_fu@brown.edu">hairuo_fu@brown.edu</a>
+</div>
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<div>
+  <i class="fas fa-file-pdf"></i>
+  <a href="/files/CV/Hairuo_Fu_CV.pdf" target="_blank">Download CV</a>
+</div>
+------
 
-A data-driven personal website
+Welcome! I am Hairuo Fu (付海若), an isotope geochemist, planetary scientist, and paleomagnetist interested in the origins and evolution of planetary bodies. I am currently a [LunaSCOPE Postdoctoral Fellow](https://sites.brown.edu/lunascope/) at Brown University. I earned my B.S. in Geology from China University of Geosciences (Beijing) in 2016 and my Ph.D. in Isotope Geochemistry from Harvard University in 2024. 
+
+I combine high-precision measurements and numerical modeling to understand the behavior of elements and isotopes during high-temperature processes, with the goal of unraveling planetary evolution — including giant-impact events, silicate and metal–silicate differentiation, and mantle-crust formation.
+
+Some of my recent work includes:
+- Constraining the bulk chemical composition of the Moon.
+- Integrating geochemical and impact dynamical evidence to test Moon-forming giant-impact models.
+- Elucidating the thermal and compositional conditions of the proto-lunar disk using volatile and siderophile elements.
+- Investigating the compositional structure of the Moon’s primordial crust and mantle through geodynamic modeling.
+
+Always happy to connect — feel free to reach out with questions, ideas, or invitations!
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -53,4 +76,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
