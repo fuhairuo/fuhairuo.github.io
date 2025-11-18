@@ -25,7 +25,7 @@ Welcome! I am Hairuo Fu (付海若), an isotope geochemist, planetary scientist,
 
 I combine high-precision measurements and numerical modeling to understand the behavior of elements and isotopes during high-temperature processes, with the goal of unraveling planetary evolution — including giant-impact events, mantle-crust formation, magma ocean-atmosphere interactions, and metal–silicate differentiation.
 
-Some of my recent work includes:
+Some of my recent research focuses on:
 - Constraining the bulk chemical composition of the Moon.
 - Integrating geochemical and impact dynamical evidence to test Moon-forming giant-impact models.
 - Elucidating the thermal and compositional conditions of the proto-lunar disk using volatile and siderophile elements.
