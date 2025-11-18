@@ -23,7 +23,7 @@ redirect_from:
 
 Welcome! I am Hairuo Fu (付海若), an isotope geochemist, planetary scientist, and paleomagnetist interested in the origins and evolution of planetary bodies. I am currently a [LunaSCOPE Postdoctoral Fellow](https://sites.brown.edu/lunascope/) at Brown University, working with James Dottin in the [SLAB lab](https://sites.google.com/brown.edu/dr-james-w-dottin-iii/slab?authuser=0). I earned my B.S. in Geology from China University of Geosciences (Beijing) in 2016 and my Ph.D. in Isotope Geochemistry from Harvard University in 2024. 
 
-I combine high-precision measurements and numerical modeling to understand the behavior of elements and isotopes during high-temperature processes, with the goal of unraveling planetary evolution — including giant-impact events, silicate and metal–silicate differentiation, and mantle-crust formation.
+I combine high-precision measurements and numerical modeling to understand the behavior of elements and isotopes during high-temperature processes, with the goal of unraveling planetary evolution — including giant-impact events, mantle-crust formation, magma ocean-atmosphere interactions, and metal–silicate differentiation.
 
 Some of my recent work includes:
 - Constraining the bulk chemical composition of the Moon.
