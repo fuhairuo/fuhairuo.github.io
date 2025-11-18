@@ -56,4 +56,4 @@ I build and run geodynamic models to study coupled thermo-chemical evolution of 
 I combine field sampling, rock-magnetic characterization, and laboratory paleomagnetic measurements to reconstruct plate motions and supercontinental evolution through deep time.
 
 ![Paleomagnetism lab image](/images/techniques/pmag.JPG){: .align-center}
-*Collecting drill cores from diabase sills in the gorgeous [Fanjingshan](https://en.wikipedia.org/wiki/Fanjingshan) area (Mount Fanjing), Guizhou, China*
+*Sampling drill cores from diabase sills in the gorgeous [Fanjingshan](https://en.wikipedia.org/wiki/Fanjingshan) area (Mount Fanjing), Guizhou, China.*
