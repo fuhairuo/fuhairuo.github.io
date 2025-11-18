@@ -6,7 +6,7 @@ author_profile: true
 classes: "page--techniques"
 ---
 
-Below are brief introductions to three major techniques I use in my research.
+Below are brief introductions to three key techniques I use in my research.
 
 <br>
 
