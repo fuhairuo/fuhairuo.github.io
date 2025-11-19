@@ -13,7 +13,7 @@ Below are brief introductions to three key techniques I use in my research.
 # Isotope Geochemistry
 ------
 
-I conduct clean-lab chemistry procedures and high-precision isotopic analysis using multicollector ICP-MS to investigate the chemical and thermal evolution of planetary systems.
+I use clean-lab chemical techniques and high-precision multicollector ICP-MS isotopic analyses to explore how planetary systems evolve chemically and thermally—from the processes occurring within magma chambers to the dynamics of global magma oceans.
 
 <div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px; margin-bottom: 20px;">
 
@@ -40,7 +40,7 @@ I conduct clean-lab chemistry procedures and high-precision isotopic analysis us
 # Geodynamics
 ------
 
-I build and run geodynamic models to study coupled thermo-chemical evolution of planetary bodies. My primary computational environment is Python.
+I develop geodynamic models to explore the coupled thermo-chemical evolution of planetary interiors. These models incorporate fluid dynamics, heat transport, melt migration, and melt–solid interactions to capture the physical processes shaping magma oceans, crust formation, and mantle differentiation. My primary computational environment is Python.
 
 <video width="530" controls>
   <source src="/images/techniques/compaction_movie.mp4" type="video/mp4">
