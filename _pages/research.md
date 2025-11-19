@@ -69,7 +69,7 @@ Using new paleomagnetic and geochronological results from the South China Block 
 
 ## Stable and radiogenic Ca isotopes for magma evolution and contamination
 
-Using high-precision Ca isotopic measurements with collion-cell MC-ICP-NS (~20 ppm internal precision), I demonstrated that stable Ca isotope fractionation is a robust tracer of magma differentiation, with a case study from the Oslo Rift, Norway [(Fu et al. 2022, *EPSL*)](https://doi.org/10.1016/j.epsl.2022.117743).
+Using high-precision Ca isotopic measurements with Nu-Sapphire collion-cell MC-ICP-MS (~20 ppm internal precision), I demonstrated that stable Ca isotope fractionation is a robust tracer of magma differentiation, with a case study from the Oslo Rift, Norway [(Fu et al. 2022, *EPSL*)](https://doi.org/10.1016/j.epsl.2022.117743).
 
 We are also exploring the radiogenic <sup>40</sup>Ca system (from <sup>40</sup>K decay) for dating ignesous rocks and resolving crustal contamination during magma crystallization.
 
