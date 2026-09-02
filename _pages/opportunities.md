@@ -8,11 +8,9 @@ share: false
 
 ## Join the Fu Lab at UTK
 
-Opportunities are available for undergraduate researchers, prospective graduate students, and postdoctoral scholars interested in isotope geochemistry, geodynamics, and planetary evolution. I am currently recruiting PhD and/or MS students for Fall 2027, with full support offered through a combination of teaching and research assistantships. Projects may emphasize analytical geochemistry, computational modeling, or combine both.
+Opportunities are available for undergraduate researchers, prospective graduate students, and postdoctoral scholars interested in isotope geochemistry, geodynamics, and planetary evolution. I am currently recruiting PhD and/or MS students for Fall 2027. Projects may emphasize analytical geochemistry, computational modeling, or combine both.
 
 ## Graduate Student Opportunities - Fall 2027
-
-Preview the recruitment flyer below or download the PDF.
 
 <p>
   <a href="/files/Opportunities/Fu_Lab_Graduate_Student_Opportunities_Fall_2027.pdf" download>
