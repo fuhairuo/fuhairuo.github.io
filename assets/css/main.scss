@@ -45,3 +45,10 @@
 .page__hero--overlay::before {
   pointer-events: none !important;
 }
+
+/* Preserve the UCLA wordmark's wide proportions in the author sidebar. */
+.author__avatar img[src*="UCLA-logo"] {
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+}

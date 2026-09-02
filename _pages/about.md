@@ -12,7 +12,7 @@ redirect_from:
 
 <div>
   <i class="fas fa-envelope"></i>
-  <a href="mailto:hairuo_fu@brown.edu">hairuo_fu@brown.edu</a>
+  <a href="mailto:hairuofu@g.ucla.edu">hairuofu@g.ucla.edu</a>
 </div>
 
 <div>
@@ -21,7 +21,7 @@ redirect_from:
 </div>
 ------
 
-Welcome! I am Hairuo Fu (付海若), an isotope geochemist, planetary scientist, and paleomagnetist interested in the origins and evolution of planetary bodies. I am currently a [LunaSCOPE Postdoctoral Fellow](https://sites.brown.edu/lunascope/) at Brown University, working with James Dottin in the [SLAB lab](https://sites.google.com/brown.edu/dr-james-w-dottin-iii/slab?authuser=0). I earned my B.S. in Geology from China University of Geosciences (Beijing) in 2016 and my Ph.D. in Isotope Geochemistry from Harvard University in 2024. 
+Welcome! I am Hairuo Fu (付海若), an isotope geochemist, planetary scientist, and paleomagnetist interested in the origins and evolution of planetary bodies. I am currently an Assistant Project Scientist at the University of California, Los Angeles (UCLA), working with Peng Ni in the [PTXRt Lab](https://nilab.epss.ucla.edu/). Beginning in August 2027, I will join the Department of Earth, Environmental, and Planetary Sciences at the University of Tennessee, Knoxville as the [Gerald D. Sisk Assistant Professor](https://eeps.utk.edu/people/faculty/). I earned my B.S. in Geology from China University of Geosciences (Beijing) in 2016 and my Ph.D. in Isotope Geochemistry from Harvard University in 2024.
 
 I combine high-precision measurements and numerical modeling to understand the behavior of elements and isotopes during high-temperature processes, with the goal of unraveling planetary evolution — including giant-impact events, mantle-crust formation, magma ocean-atmosphere interactions, and metal–silicate differentiation.
 
@@ -31,7 +31,7 @@ Some of my recent research focuses on:
 - Elucidating the thermal and compositional conditions of the proto-lunar disk using volatile and siderophile elements.
 - Investigating the compositional structure of the Moon’s primordial crust and mantle through geodynamic modeling.
 
-Always happy to connect — feel free to reach out with questions, ideas, or invitations!
+Opportunities are open for undergraduate researchers, graduate students, and postdoctoral scholars. Please visit the [Opportunities](/opportunities/) page for details.
 
 
 <!-- A data-driven personal website
